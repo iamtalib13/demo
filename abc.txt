@@ -1,3 +1,7 @@
 hello world
 new hello world
+<<<<<<< HEAD
 the umbrella academy
+=======
+umbrella academy
+>>>>>>> 7885c5905984329e3f079f28125f6a41105b70d8
